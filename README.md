@@ -1,5 +1,4 @@
-# ProjectsFCC
+# Data handling, visualitation and machine learning projects
 
-Lists of projects from Free Code Camp regarding Python, SQL, Data Science and Machine Learning.
+Lists of projects regarding Python, SQL, Data Science and Machine Learning.
 
-I'm excited to expand my knowledges 
